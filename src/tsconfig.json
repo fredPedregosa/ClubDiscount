@@ -15,7 +15,7 @@
     "inlineSources": true
   },
   
-
+// fred Pedregosa
   "files": [
     "main.ts",
     "typings.d.ts"
