@@ -15,6 +15,11 @@
     "inlineSources": true
   },
 
+
+
+
+  
+
   "files": [
     "main.ts",
     "typings.d.ts"
