@@ -29,8 +29,8 @@ const barrels: string[] = [
   // App specific barrels.
   'app',
   'app/shared',
-  'app/product-list',
-  'app/+products',
+  'app/products',
+  'app/welcome'
   /** @cli-barrel */
 ];
 

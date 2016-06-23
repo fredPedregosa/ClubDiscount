@@ -1,2 +1,2 @@
 export * from './environment';
-export * from './buyproducts.component';
+export * from './app.component';

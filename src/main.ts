@@ -1,10 +1,10 @@
 import { bootstrap } from '@angular/platform-browser-dynamic';
 import { enableProdMode } from '@angular/core';
-import { BuyproductsAppComponent, environment } from './app/';
+import { ClubDiscountAppComponent, environment } from './app/';
 
 if (environment.production) {
   enableProdMode();
 }
 
-bootstrap(BuyproductsAppComponent);
+bootstrap(ClubDiscountAppComponent);
 
